@@ -4,6 +4,6 @@ c = 8
 branch dev add last line 
 d = 15
 branch feature01 add last line
-e = 19
+branch feature01 delete last line
 branch master add last line
 f = 11
